@@ -65,7 +65,7 @@ body {
   text-align: left;
   border-radius: 3rem;
   user-select: none;
-  box-shadow: 0 0 2rem #565454;
+  box-shadow: 0 0 0.5rem #262626;
   cursor: pointer;
 }
 .custom-selector__label::after {
@@ -87,6 +87,7 @@ body {
   background-color: #313157;
   border-radius: 1rem;
   transition: ease-in-out 0.2s;
+  box-shadow: 0 0 0.5rem #262626;
 }
 .custom-selector__list::-webkit-scrollbar {
   width: 10px;
@@ -114,6 +115,10 @@ body {
 .custom-selector__item:hover {
   background-color: #915291;
   cursor: pointer;
+}
+
+.select__button {
+  display: none;
 }
 
 /*# sourceMappingURL=index.css.map */

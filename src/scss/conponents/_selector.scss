@@ -50,7 +50,7 @@
         text-align: left;
         border-radius: 3rem;
         user-select: none;
-        box-shadow: 0 0 2rem #565454;
+        box-shadow: 0 0 .5rem #262626;
         cursor: pointer;
         
         &::after
@@ -76,6 +76,7 @@
         background-color: #313157;
         border-radius: 1rem;
         transition: ease-in-out .2s;
+        box-shadow: 0 0 .5rem #262626;
 
         &::-webkit-scrollbar 
         {
