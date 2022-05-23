@@ -1,0 +1,291 @@
+[
+    {
+        "name":"tokyo",
+        "image": "../dist-files/dist-images/tokyo.jpg"
+    }
+    ,
+    {
+        "name":"aomori",
+        "image": "../dist-files/dist-images/aomori.jpg"
+    }
+    ,
+    {
+        "name":"chiba",
+        "image": "../dist-files/dist-images/chiba.jpg"
+    }
+    ,
+    {
+        "name":"fukui",
+        "image": "../dist-files/dist-images/fukui.jpg"
+    }
+    ,
+    {
+        "name":"fukuoka",
+        "image": "../dist-files/dist-images/fukuoka.jpg"
+    }
+    ,
+    {
+        "name":"hachioji",
+        "image": "../dist-files/dist-images/hachioji.jpg"
+    }
+    ,
+    {
+        "name":"hakodate",
+        "image": "../dist-files/dist-images/hakodate.jpg"
+    }
+    ,
+    {
+        "name":"hiratsuka",
+        "image": "../dist-files/dist-images/hiratsuka.jpg"
+    }
+    ,
+    {
+        "name":"hiroshima",
+        "image": "../dist-files/dist-images/hiroshima.jpg"
+    }
+    ,
+    {
+        "name":"kagoshima",
+        "image": "../dist-files/dist-images/Kagoshima.jpg"
+    }
+    ,
+    {
+        "name":"kanazawa",
+        "image": "../dist-files/dist-images/kanzawa.jpg"
+    }
+    ,
+    {
+        "name":"kasugai",
+        "image": "../dist-files/dist-images/kasugai.jpg"
+    }
+    ,
+    {
+        "name":"kawagoe",
+        "image": "../dist-files/dist-images/kawagoe.jpg"
+    }
+    ,
+    {
+        "name":"kioto",
+        "image": "../dist-files/dist-images/kioto.jpg"
+    }
+    ,
+    {
+        "name":"kōbe",
+        "image": "../dist-files/dist-images/kōbe.jpg"
+    }
+    ,
+    {
+        "name":"kōfu",
+        "image": "../dist-files/dist-images/kōfu.jpg"
+    }
+    ,
+    {
+        "name":"kure",
+        "image": "../dist-files/dist-images/kure.jpg"
+    }
+    ,
+    {
+        "name":"maebashi",
+        "image": "../dist-files/dist-images/maebashi.jpg"
+    }
+    ,
+    {
+        "name":"matsue",
+        "image": "../dist-files/dist-images/matsue.jpg"
+    }
+    ,
+    {
+        "name":"matsuyama",
+        "image": "../dist-files/dist-images/matsuyama.jpg"
+    }
+    ,
+    {
+        "name":"mito",
+        "image": "../dist-files/dist-images/mito.jpg"
+    }
+    ,
+    {
+        "name":"nagasaki",
+        "image": "../dist-files/dist-images/nagasaki.jpg"
+    }
+    ,
+    {
+        "name":"nagoya",
+        "image": "../dist-files/dist-images/nagoya.jpg"
+    }
+    ,
+    {
+        "name":"naha",
+        "image": "../dist-files/dist-images/naha.jpg"
+    }
+    ,
+    {
+        "name":"nara",
+        "image": "../dist-files/dist-images/nara.jpg"
+    }
+    ,
+    {
+        "name":"niigata",
+        "image": "../dist-files/dist-images/niigata.jpg"
+    }
+    ,
+    {
+        "name":"ōita",
+        "image": "../dist-files/dist-images/ōita.jpg"
+    }
+    ,
+    {
+        "name":"osaka",
+        "image": "../dist-files/dist-images/osaka.jpg"
+    }
+    ,
+    {
+        "name":"otaru",
+        "image": "../dist-files/dist-images/otaru.jpg"
+    }
+    ,
+    {
+        "name":"saga",
+        "image": "../dist-files/dist-images/saga.jpg"
+    }
+    ,
+    {
+        "name":"saitama",
+        "image": "../dist-files/dist-images/saitama.jpg"
+    }
+    ,
+    {
+        "name":"sapporo",
+        "image": "../dist-files/dist-images/sapporo.jpg"
+    }
+    ,
+    {
+        "name":"sendai",
+        "image": "../dist-files/dist-images/sendai.jpg"
+    }
+    ,
+    {
+        "name":"shizuoka",
+        "image": "../dist-files/dist-images/shizuoka.jpg"
+    }
+    ,
+    {
+        "name":"takamatsu",
+        "image": "../dist-files/dist-images/takamatsu.jpg"
+    }
+    ,
+    {
+        "name":"takayama",
+        "image": "../dist-files/dist-images/takayama.jpg"
+    }
+    ,
+    {
+        "name":"tokorozawa",
+        "image": "../dist-files/dist-images/tokorozawa.jpg"
+    }
+    ,
+    {
+        "name":"tokushima",
+        "image": "../dist-files/dist-images/tokushima.jpg"
+    }
+    ,
+    {
+        "name":"tottori",
+        "image": "../dist-files/dist-images/Tottori.jpg"
+    }
+    ,
+    {
+        "name":"toyama",
+        "image": "../dist-files/dist-images/toyama.jpg"
+    }
+    ,
+    {
+        "name":"utsunomiya",
+        "image": "../dist-files/dist-images/utsunomiya.jpg"
+    }
+    ,
+    {
+        "name":"wakayama",
+        "image": "../dist-files/dist-images/wakayama.jpg"
+    }
+    ,
+    {
+        "name":"yokkaichi",
+        "image": "../dist-files/dist-images/Yokkaichi.jpg"
+    }
+    ,
+    {
+        "name":"yokohama",
+        "image": "../dist-files/dist-images/yokohama.jpg"
+    }
+    ,
+    {
+        "name":"hamamatsu",
+        "image": "../dist-files/dist-images/hamamatsu.jpg"
+    }
+    ,
+    {
+        "name":"himeji",
+        "image": "../dist-files/dist-images/himeji.jpg"
+    }
+    ,
+    {
+        "name":"iwaki-fukushima",
+        "image": "../dist-files/dist-images/iwaki-fukushima.jpg"
+    }
+    ,
+    {
+        "name":"kanzawa",
+        "image": "../dist-files/dist-images/kanzawa.jpg"
+    }
+    ,
+    {
+        "name":"kitakyūshū",
+        "image": "../dist-files/dist-images/kitakyushu.jpg"
+    }
+    ,
+    {
+        "name":"yokohama",
+        "image": "../dist-files/dist-images/yokohama.jpg"
+    }
+    ,
+    {
+        "name":"kōchi",
+        "image": "../dist-files/dist-images/kōchi.jpg"
+    }
+    ,
+    {
+        "name":"kumamoto",
+        "image": "../dist-files/dist-images/kumamoto.jpg"
+    }
+    ,
+    {
+        "name":"nagano",
+        "image": "../dist-files/dist-images/nagano.jpg"
+    }
+    ,
+    {
+        "name":"okayama",
+        "image": "../dist-files/dist-images/okayama.jpg"
+    }
+    ,
+    {
+        "name":"ōtsu",
+        "image": "../dist-files/dist-images/ōtsu.jpg"
+    }
+    ,
+    {
+        "name":"sakai",
+        "image": "../dist-files/dist-images/sakai.jpg"
+    }
+    ,
+    {
+        "name":"takaoka",
+        "image": "../dist-files/dist-images/takaoka.jpg"
+    }
+    ,
+    {
+        "name":"morioka",
+        "image": "../dist-files/dist-images/morioka.jpg"
+    }
+]
