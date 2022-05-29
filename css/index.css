@@ -38,6 +38,7 @@ body {
   opacity: 1;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   transition: ease-in-out 0.2s;
   z-index: -999;
 }
@@ -47,6 +48,7 @@ body {
 
 .select-block {
   width: 45%;
+  max-width: 50rem;
   text-align: center;
   margin: 0 auto;
   position: relative;

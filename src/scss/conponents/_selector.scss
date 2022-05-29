@@ -16,6 +16,7 @@
     opacity: 1;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     transition: ease-in-out .2s;
     z-index: -999;
     &.active
@@ -23,15 +24,18 @@
         opacity: 0;
     }
 }
+
 .select-block
 {
     width: 45%;
+    max-width: 50rem;
     text-align: center;
     margin: 0 auto;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
 }
+
 .custom-selector
 {
     display: block;
@@ -145,3 +149,4 @@
         }
     }
 }
+
