@@ -25,7 +25,7 @@
 }
 .select-block
 {
-    width: 40rem;
+    width: 45%;
     text-align: center;
     margin: 0 auto;
     position: relative;
@@ -124,4 +124,24 @@
 .select__button
 {
     display: none;
+}
+
+@media only screen and (max-width:1048px) 
+{
+    .select-block
+    {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width:500px) 
+{
+    .custom-selector__label
+    {
+        &::after
+        {
+            border: 7px solid transparent;
+            border-top-color: #585858;
+        }
+    }
 }

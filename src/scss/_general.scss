@@ -14,3 +14,11 @@ body
     background-color: #161633;
     font-family: 'Titillium Web', sans-serif;
 }
+
+@media only screen and (max-width:500px) 
+{
+    html
+    {
+        font-size: 10px;
+    }
+}
