@@ -1,4 +1,3 @@
-/* let oldSelection; */
 export default class Select
 {
    constructor(select)
@@ -85,7 +84,6 @@ function createCustomSelect(select)
         
     });
     select.customOptions.classList.add('custom-selector__list');
-    /* select.customOption.type='A'; */
     select.customLabel.after(select.customOptions);
 
     let key ='';
